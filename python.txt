@@ -7,3 +7,5 @@ django restframework
 
 restapi
 
+angualar
+
